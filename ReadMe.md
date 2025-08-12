@@ -11,7 +11,7 @@ The logic periodically adds one workplace at a time to companies that meet all t
 It could take some time for all potential workplaces to be added to all your commercial companies.
 You can use mods like **Building Use** or **InfoLoom** to monitor the changes in commercial workplaces.
 
-**NOTICE**
+## NOTICE
 This mod may more than double the number of workplaces at commercial companies, especially in buildings that are already at a higher level.
 Your city may need more workers to satisfy the increase in workplaces.
 

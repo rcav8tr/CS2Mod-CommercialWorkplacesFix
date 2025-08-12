@@ -10,8 +10,8 @@ namespace CommercialWorkplacesFix
     public class ModAssemblyInfo
     {
         public const string Name        = "CommercialWorkplacesFix";
-        public const string Version     = "1.0.0";
-        public const string Title       = "Commercial Worker Fix";
+        public const string Version     = "1.0.1";
+        public const string Title       = "Commercial Workplaces Fix";
         public const string Description = "Fix for commercial company workplaces never increasing.";
     }
 }

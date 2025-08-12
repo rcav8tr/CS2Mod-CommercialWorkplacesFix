@@ -5,8 +5,8 @@
 	
 		<!--The file where mod information which is required for publishing mod on PDX mods are stored-->
 		<PublishConfigurationPath>Properties\PublishConfiguration.xml</PublishConfigurationPath>
-		<Title>Commercial Worker Fix</Title>
-		<Version>1.0.0</Version>
+		<Title>Commercial Workplaces Fix</Title>
+		<Version>1.0.1</Version>
 		<Description>Fix for commercial company workplaces never increasing.</Description>
 		<Copyright>Copyright © 2025</Copyright>
         <TreatWarningsAsErrors>True</TreatWarningsAsErrors>

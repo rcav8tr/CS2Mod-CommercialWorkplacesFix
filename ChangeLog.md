@@ -1,1 +1,1 @@
-﻿- Initial release.
+﻿- Prevent distribution of game DLL file.
