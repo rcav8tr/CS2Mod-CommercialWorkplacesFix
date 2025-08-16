@@ -1,5 +1,6 @@
 ﻿# Commercial Workplaces Fix
 Fix for commercial company workplaces never increasing.
+For example, if your commercial company is stuck at 5/5 employees.
 
 # Description
 The game logic intends to add workplaces to commercial companies for example as the building levels up.

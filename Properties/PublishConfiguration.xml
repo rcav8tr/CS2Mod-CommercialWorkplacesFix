@@ -16,6 +16,7 @@
     <LongDescription>
 # Commercial Workplaces Fix
 Fix for commercial company workplaces never increasing.
+For example, if your commercial company is stuck at 5/5 employees.
 
 # Description
 The game logic intends to add workplaces to commercial companies for example as the building levels up.
@@ -50,6 +51,7 @@ Thanks to krzychu124 and Necko1996 for finding the bug.
 
     <!-- Screenshot.  Copied from Screenshots folder.  Include no spaces in file names.  Max file size is 2.1MB.  Can be set multiple times. -->
     <Screenshot Value="Properties\Screenshots\10Thumbnail.png" />
+    <Screenshot Value="Properties\Screenshots\20Graph.png" />
 
 
     <!-- Tag.  Can be set multiple times. -->
