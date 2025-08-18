@@ -28,6 +28,9 @@ The logic periodically adds one workplace at a time to companies that meet all t
 It could take some time for all potential workplaces to be added to all your commercial companies.
 You can use mods like **Building Use** or **InfoLoom** to monitor the changes in commercial workplaces.
 
+Note that if your commercial company is stuck at 5/5 employees because the company is not selling enough resources,
+the company will remain at 5/5 employees until that condition is resolved.
+
 ## NOTICE
 This mod may more than double the number of workplaces at commercial companies, especially in buildings that are already at a higher level.
 Your city may need more workers to satisfy the increase in workplaces.
@@ -35,6 +38,8 @@ Your city may need more workers to satisfy the increase in workplaces.
 
 # Compatibility
 There are no known compatibility issues with any other mods.
+
+This mod is compatible with the **Realistic Workplaces and Households** mod.
 
 If this mod is disabled or unsubscribed, workplaces already added to existing commercial companies will remain initially.
 Note that there is still game logic to remove workplaces if not enough resources are sold by a commercial company.
